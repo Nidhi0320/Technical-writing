@@ -62,7 +62,39 @@ Wi-Fi and Satisfaction
 
 In this part of the information area you will be able to know the consumption of data that the cards are having (left side) and on the other hand the index of satisfaction of the passenger in relation to the question that has been formulated to them (right side).
 
-##Vehicles
+##  Vehicles
+Clicking on the routes icon or at showing the last trip we will access to this.
+
+![image](https://user-images.githubusercontent.com/113215339/189496680-5a76921c-d882-419a-9787-f6de1321e75e.png)
+
+My vehicles
+By this view it can be displayed on a table the travels between selected dates of any vehicle.
+With the Export as CSV button, you can obtain in an archive the list of trips with the origin, destination, duration and distance traveled.
+
+![image](https://user-images.githubusercontent.com/113215339/189496732-a07d866d-5c4a-4e28-b9ca-e6d0050d4eb5.png)
+
+## Alerts
+
+Configuration
+In this section, we can configure speed alerts for each of the devices or for all devices in global.
+![image](https://user-images.githubusercontent.com/113215339/189496762-7566415f-23c9-4464-b3cd-73ba90bf0903.png)
+
+Record
+In this section, we can see all the speed alerts as well as DTCs or diagnostic alerts.
+![image](https://user-images.githubusercontent.com/113215339/189496781-b8e9deec-1158-450c-bfe4-3349955071e7.png)
+
+## Information of interest
+Download capacity chart
+The following table display the approximate number of users who can download certain content at the same
+time whether they are on a 3G or 4G network.
+Criteria such as the coverage and type of hiring data can divert these numbers.
+
+![image](https://user-images.githubusercontent.com/113215339/189496809-c5011604-6658-4653-91f0-206c39f6bcc7.png)
+
+
+
+
+
 
 
 
