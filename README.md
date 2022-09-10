@@ -11,7 +11,7 @@ INSTALLATION AND CONFIGURATION MANUAL
 | 5 | Vehicles |
 | 6 | Alerts |
 | 7 | Information of interest |
-## Introduction 
+## 01/ Introduction 
 Wireless technologies are becoming indispensable tools for the management of fleets in the transport sector companies.
 It was unthinkable, until a few years ago, to know in real-time the geolocation of the vehicle, the state of it or the passengers during the travel without high expenses and using complicated software installations.
 ### Asset Tracking System
@@ -20,10 +20,10 @@ Thinking about covering these and other needs Asset Tracking system is created, 
 - Geolocation
 - Information about passengers
 - Wi – Fi service management
-## User Manual
+## 02/ User Manual
 This user manual describes all the steps necessary to access the platform and the management of the services offered by Asset Tracking, all the information that the manager or manager of the transport company must know.
 ![image](https://user-images.githubusercontent.com/113215339/189496298-3763c809-2fbd-48a3-9d13-5a159aa30cff.png)
-## Access to Asset Tracking System
+## 03/ Access to Asset Tracking System
 To access Asset Tracking system you will need an access username and password, for this we will send you a link to your email that will allow you to create your new password. You should click on the link. Finally, you must click the "Change" button to save your password.
 ![image](https://user-images.githubusercontent.com/113215339/189496317-6ce0f257-36a0-4dc9-9776-e9544b5615b8.png)
 ## 04/ Homepage: Summary
@@ -62,7 +62,7 @@ Wi-Fi and Satisfaction
 
 In this part of the information area you will be able to know the consumption of data that the cards are having (left side) and on the other hand the index of satisfaction of the passenger in relation to the question that has been formulated to them (right side).
 
-##  Vehicles
+## 05/ Vehicles
 Clicking on the routes icon or at showing the last trip we will access to this.
 
 ![image](https://user-images.githubusercontent.com/113215339/189496680-5a76921c-d882-419a-9787-f6de1321e75e.png)
@@ -73,7 +73,7 @@ With the Export as CSV button, you can obtain in an archive the list of trips wi
 
 ![image](https://user-images.githubusercontent.com/113215339/189496732-a07d866d-5c4a-4e28-b9ca-e6d0050d4eb5.png)
 
-## Alerts
+## 06/ Alerts
 
 Configuration
 In this section, we can configure speed alerts for each of the devices or for all devices in global.
@@ -83,21 +83,10 @@ Record
 In this section, we can see all the speed alerts as well as DTCs or diagnostic alerts.
 ![image](https://user-images.githubusercontent.com/113215339/189496781-b8e9deec-1158-450c-bfe4-3349955071e7.png)
 
-## Information of interest
+## 07/ Information of interest
 Download capacity chart
 The following table display the approximate number of users who can download certain content at the same
 time whether they are on a 3G or 4G network.
 Criteria such as the coverage and type of hiring data can divert these numbers.
 
 ![image](https://user-images.githubusercontent.com/113215339/189496809-c5011604-6658-4653-91f0-206c39f6bcc7.png)
-
-
-
-
-
-
-
-
-
-
-
