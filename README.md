@@ -31,23 +31,39 @@ This is the main page that the user will find when accessing the platform. In th
 ### My account
 Company data
 On the right side of the login screen you will find your profile. In it you will see the name and logo of your company. By clicking on it, you will see a drop-down from where you can access to My account or you can log out.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496338-f9ae776c-3201-4fd9-a22e-59387e27e80d.png)
 
 My account
 Clicking on this option will display a screen with four information areas: Personal Data, My Plans and Services, API Key and Non-standard Configuration.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496351-a331f3e5-4d5a-48fb-b022-98eb6df2f513.png)
 
 1) In personal data you will find the information of your company. In this section, you could modify your contact details. You can also select the time zone, which by default will be Europe/Madrid.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496393-9ea10b42-c89f-4a36-8ce9-16f77f4649c7.png)
 
 2) In plans and contracted services, you will see the number of devices, as the service and contracted period.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496410-accc89a1-d72a-40d5-b4ae-ea106d73951f.png)
 
 3) In the API Key tab you can generate the private key for your computer services.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496438-b5b9a887-f1f6-4ed0-a084-4fbeabb94dcc.png)
 
 4) List of devices that have specific configuration different to the standard configuration. To change the settings, you can click directly on the configuration types.
+
 ![image](https://user-images.githubusercontent.com/113215339/189496463-de27c35c-6180-4186-ad42-bacc2a684f62.png)
+
+### Dashboard
+Wi-Fi and Satisfaction
+
+![image](https://user-images.githubusercontent.com/113215339/189496527-7c3b4dd7-ff01-41c8-8466-ef1b7383f88c.png)
+
+In this part of the information area you will be able to know the consumption of data that the cards are having (left side) and on the other hand the index of satisfaction of the passenger in relation to the question that has been formulated to them (right side).
+
+##Vehicles
+
 
 
 
